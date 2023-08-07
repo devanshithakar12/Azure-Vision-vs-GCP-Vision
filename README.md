@@ -39,7 +39,7 @@ In this hack, we will explore the Generative AI Studio inside Vertex AI componen
 Steps 
 * Navigate to the three lines at the top left of the GCP Console. You will see a dropdown list. Scroll down until you find the Artificail Intelligence section. We want to click on Vertex AI. It may be helpful to pin this service so it shows up at the top of the drop down next time. 
 * You will see the Generative AI Studio on the left sidebar. Click on Vision. Choose the "Gen-AI-Demo-Img" from the data folder and upload it to the UI.
-* We can experiemnt with the two features "Caption" and "Visual Q&A"
+* We can experiement with the two features "Caption" and "Visual Q&A"
   
 ### HACK #3 Object Detection 
 
@@ -55,5 +55,7 @@ Steps
 * Deploy and Use -> Create
 * Test with the endpoint
 
+### Resources 
+*  [Vision API Features](https://cloud.google.com/vision/docs/detecting-faces)
 
 
