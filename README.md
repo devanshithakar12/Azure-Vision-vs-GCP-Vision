@@ -43,10 +43,17 @@ Steps
   
 ### HACK #3 Object Detection 
 
-In this hack, we will explore how to create your own custom models in the Vertex AI portal. We will train a simple object detection model to determine between a Buffalo and a Zebra. 
+In this hack, we will explore how to create your own custom models in the Vertex AI portal. We will train a simple object detection model to detect a buffalo versus a zebra. 
 
 Steps
-* 
+* Naviagate to Cloud Storage using the search bar at the top of the console. Click on +Create. Upload the folder that contains all the training images. 
+* Prepare your data. We will need to create a CSV/JSONL file containing the annotations for the training data. See the resources linked below for more information.
+* If needed, label a couple of the images with the labelling tool.
+* Navigate to Vertex AI from the left drop down.
+* Datasets -> Create -> Image object detection -> Select image files from Cloud Storage -> Select the annotations file.
+* Training -> Create 
+* Deploy and Use -> Create
+* Test with the endpoint
 
 
 
