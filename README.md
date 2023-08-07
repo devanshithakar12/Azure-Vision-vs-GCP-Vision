@@ -55,6 +55,8 @@ Steps
 * Deploy and Use -> Create
 * Test with the endpoint
 
+### HACK #4 Person/Obj Detection
+
 ### Resources 
 *  [Vision API Features](https://cloud.google.com/vision/docs/detecting-faces)
 
