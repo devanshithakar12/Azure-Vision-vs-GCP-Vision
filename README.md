@@ -12,11 +12,11 @@
 * Create a new project
 * Configure your billing account
 * Search for Cloud Vision API -> Enable.
-* Search for Vertex AI API 
+* Search for Vertex AI API -> Enable
 
 ### HACK #1 Detect Faces
 
-In this hack, we will explore the Vision API and its features. The one we will take a look at is "detecting faces"
+In this hack, we will explore the Vision API and its features. The one we will take a look at is "Detecting Faces". 
 
 Steps
 * Click on the three lines to navigate to the drop down list. Click on APIs & Services -> Credentials. Click  + Create Credentials -> Service Account. Select a role -> Basic -> Owner. Once created, go to keys -> Add Key -> JSON. Save this file inside the directory.
@@ -38,7 +38,7 @@ In this hack, we will explore the Generative AI Studio inside Vertex AI componen
 
 Steps 
 * Navigate to the three lines at the top left of the GCP Console. You will see a dropdown list. Scroll down until you find the Artificail Intelligence section. We want to click on Vertex AI. It may be helpful to pin this service so it shows up at the top of the drop down next time. 
-* You will see the Generative AI Studio on the left sidebar. Click on Vision. Choose the "Gen-AI-Demo-Img" from the data floder and upload it to the UI.
+* You will see the Generative AI Studio on the left sidebar. Click on Vision. Choose the "Gen-AI-Demo-Img" from the data folder and upload it to the UI.
 * We can experiemnt with the two features "Caption" and "Visual Q&A"
   
 ### HACK #3 Object Detection 
