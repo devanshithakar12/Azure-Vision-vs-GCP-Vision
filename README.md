@@ -8,7 +8,7 @@
 ### HACK PRE-REQUISITES 
 
 * Clone this repository. 
-* Navigate to
+* Navigate to console.cloud.google.com
 * Create a new project
 * Configure your billing account
 * Search for Cloud Vision API -> Enable.
@@ -16,17 +16,17 @@
 
 ### HACK #1 Detect Faces
 
-In this hack, we will explore the Vision API features. The one we will experiment with is detecting faces. 
+In this hack, we will explore the Vision API and its features. The one we will take a look at is "detecting faces"
 
 Steps
 * Click on the three lines to navigate to the drop down list. Click on APIs & Services -> Credentials. Click  + Create Credentials -> Service Account. Select a role -> Basic -> Owner. Once created, go to keys -> Add Key -> JSON. Save this file inside the directory.
 * Create a virtual env inside your preferred IDE. I am using VS Code. Once you are in the correct directory, opena terminal and run this command to create a virtual environment.
-*   python -m venv gcpdemo
-*   gcpdemo/Scripts/activate
-* Install an important library
-*   pip install --upgrade google-cloud-vision
-*   pip install pandas
-*   pip install pillow
+    * python -m venv gcpdemo
+    * gcpdemo/Scripts/activate
+* Install some libraries 
+  * pip install --upgrade google-cloud-vision
+  * pip install pandas
+  * pip install pillow
 * Open the Interpreter (CNTRL + SHIFT + P) to select your virtual environment.
 * Run the script 
 
