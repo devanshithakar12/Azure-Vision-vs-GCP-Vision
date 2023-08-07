@@ -7,7 +7,7 @@
 
 ### HACK PRE-REQUISITES 
 
-* Clone this repository. 
+* Clone this repository or download the zip file.
 * Navigate to console.cloud.google.com
 * Create a new project
 * Configure your billing account
