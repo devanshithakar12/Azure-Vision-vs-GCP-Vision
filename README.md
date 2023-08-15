@@ -20,7 +20,7 @@ In this hack, we will explore the Vision API and its features. The one we will t
 
 Steps
 * Click on the three lines to navigate to the drop down list. Click on APIs & Services -> Credentials. Click  + Create Credentials -> Service Account. Select a role -> Basic -> Owner. Once created, Click service account url -> Go to keys -> Add Key -> JSON. Save this file inside the directory.
-* Create a virtual env inside your preferred IDE. I am using VS Code. Once you are in the correct directory, opena terminal and run this command to create a virtual environment.
+* Create a virtual env inside your preferred IDE. I am using VS Code. Once you are in the correct directory, open a terminal and run this command to create a virtual environment.
     * python -m venv gcpdemo
     * gcpdemo/Scripts/activate
 * Install some libraries 
