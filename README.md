@@ -27,7 +27,7 @@ Steps
   * pip install --upgrade google-cloud-vision
   * pip install pandas
   * pip install pillow
-* Open the Interpreter (CNTRL + SHIFT + P) to select your virtual environment.
+* Open the Interpreter (Ctrl + Shift + P) to select your virtual environment.
 * Run the script 
 
 
