@@ -11,8 +11,8 @@
 * Navigate to console.cloud.google.com
 * Create a new project
 * Configure your billing account
-* Search for Cloud Vision API -> Enable.
-* Search for Vertex AI API -> Enable
+* Search for Cloud Vision API -> Enable. [Cloud Vision API](https://console.cloud.google.com/marketplace/product/google/vision.googleapis.com?q=search&referrer=search&project=gcp-test-project-390017)
+* Search for Vertex AI API -> Enable [Vertex AI API](https://console.cloud.google.com/marketplace/product/google/aiplatform.googleapis.com?q=search&referrer=search&project=gcp-test-project-390017)
 
 ### HACK #1 Detect Faces
 
