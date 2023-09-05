@@ -1,9 +1,9 @@
 training,gs://bucket/filename1.gif, Buffalo, 0.560000,0.663017,0.617500,0.644769
 training,gs://bucket/filename2.gif, Buffalo, 0.473515,0.508434,0.497592,0.838554
 training,gs://bucket/filename3.gif, Buffalo, 0.819167,0.593750,0.148333,0.242500
-training,gs://bucket/filename3.gif, Buffalo, 0.747500, 0.472500,0.221667,0.190000
+training,gs://bucket/filename3.gif, Buffalo, 0.747500,0.472500,0.221667,0.190000
 training,gs://bucket/filename3.gif, Buffalo, 0.524167,0.543750,0.165000,0.232500
-training,gs://bucket/filename3.gif, Buffalo, 0.298333 0.552500 0.266667 0.255000
+training,gs://bucket/filename3.gif, Buffalo, 0.298333,0.552500,0.266667,0.255000
 training,gs://bucket/filename3.gif, Buffalo, 0.158333,0.553750,0.293333,0.217500
 training,gs://bucket/filename4.gif, Zebra, 0.348438,0.491765,0.693750,0.870588
 training,gs://bucket/filename5.gif, Zebra, 0.442623,0.747656,0.796253,0.504687
